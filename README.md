@@ -24,14 +24,5 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=herdianimmanuel&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=herdianimmanuel&layout=compact&theme=tokyonight)
-
----  
-
----
-
 ## 📫 Connect with Me
-- 💼 [LinkedIn](https://linkedin.com/in/your-username)  
-- 📧 Email: your-email@example.com  
+- 📧 Email: herdianimmanuel98@gmail.com  
